@@ -2,7 +2,7 @@
 
 ## About Me
 - I'm a senior computer science major at UT Dallas.
-- My technical interests lie in fields of machine learning and cloud computing.
+- My technical interests lie in the fields of machine learning and cloud computing.
 
 ## Skills
 - Languages: C/C++, Java, Python, R, SQL

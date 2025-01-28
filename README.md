@@ -6,7 +6,7 @@
 - I am currently working on AI/ML projects to build my portfolio. 
 
 ## Skills
-- Languages: Java, Python, Jave, SQL
+- Languages: Java, Python, C++, SQL
 - Novice Language Skills: React.js, Node.js, C, Apache Spark
 - Operating Systems: Windows, Linux
 - Certifications: AWS Cloud Practitioner Certification (April 2024)

@@ -3,7 +3,6 @@
 ## About Me
 - I'm a Software Engineer at Enterprise Mobility.
 - My technical interests lie in the fields of Cloud Computing, AI/ML, and Data Analytics.
-- I am currently working on AI/ML projects to build my portfolio. 
 
 ## Skills
 - Languages: Java, Python, C++, SQL
@@ -12,8 +11,9 @@
 - Certifications: AWS Cloud Practitioner Certification (April 2024)
 
 ## Projects
-- Past Projects: ATD 2023 Challenge, Machine Learning Analysis Paper on Neural Networks, Fairness and Potential Bias in LLMs, Tutortopia, ORCA (Blockchain-Based Messaging App)
-- Upcoming: Property Price Regression Project, Celebrity Image Classification Project
+- **Past Projects:** ATD 2023 Challenge, Machine Learning Analysis Paper on Neural Networks, Fairness and Potential Bias in LLMs, Tutortopia, ORCA (Blockchain-Based Messaging App)
+- **Currently working on:** Building my AI/ML portfolio!
+- **Currently learning:** Python, Exploratory Data Analysis, AI Practitioner Certification AWS
 
 
 

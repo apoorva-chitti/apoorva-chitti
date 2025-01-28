@@ -5,13 +5,14 @@
 - My technical interests lie in the fields of Cloud Computing, AI/ML, and Data Analytics. 
 
 ## Skills
-- Languages: C/C++, Java, Python, R, SQL
+- Languages: Java, Python, Jave, SQL
+- Novice Language Skills: React.js, Node.js, C, Apache Spark
 - Operating Systems: Windows, Linux
-- Certifications: AWS Cloud Practitioner Certification (In progress)
+- Certifications: AWS Cloud Practitioner Certification (April 2024)
 
 ## Projects
-- Past Projects: ATD 2023 Challenge, Machine Learning Analysis Paper
-- Upcoming: NLP and Domain Generalization research
+- Past Projects: ATD 2023 Challenge, Machine Learning Analysis Paper on Neural Networks, Fairness and Potential Bias in LLMs, Tutortopia
+- Upcoming: N
 
 
 

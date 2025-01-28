@@ -1,8 +1,8 @@
 # Hello, I'm Apoorva Chittimoori! 👋
 
 ## About Me
-- I'm a senior computer science major at UT Dallas.
-- My technical interests lie in the fields of machine learning and cloud computing.
+- I'm a Software Engineer at Enterprise Mobility.
+- My technical interests lie in the fields of Cloud Computing, AI/ML, and Data Analytics. 
 
 ## Skills
 - Languages: C/C++, Java, Python, R, SQL

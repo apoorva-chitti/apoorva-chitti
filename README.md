@@ -2,7 +2,8 @@
 
 ## About Me
 - I'm a Software Engineer at Enterprise Mobility.
-- My technical interests lie in the fields of Cloud Computing, AI/ML, and Data Analytics. 
+- My technical interests lie in the fields of Cloud Computing, AI/ML, and Data Analytics.
+- I am currently working on AI/ML projects to build my portfolio. 
 
 ## Skills
 - Languages: Java, Python, Jave, SQL

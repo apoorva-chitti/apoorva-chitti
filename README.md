@@ -11,8 +11,8 @@
 - Certifications: AWS Cloud Practitioner Certification (April 2024)
 
 ## Projects
-- Past Projects: ATD 2023 Challenge, Machine Learning Analysis Paper on Neural Networks, Fairness and Potential Bias in LLMs, Tutortopia
-- Upcoming: N
+- Past Projects: ATD 2023 Challenge, Machine Learning Analysis Paper on Neural Networks, Fairness and Potential Bias in LLMs, Tutortopia, ORCA (Blockchain-Based Messaging App)
+- Upcoming: Property Price Regression Projet, Celebrity Image Classification Project
 
 
 
